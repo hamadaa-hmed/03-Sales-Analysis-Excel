@@ -88,6 +88,6 @@ The main project file is:
 
 ## 👨‍💻 Author
 
-**Hamada Ahmed**
+** Hamada Ahmed **
 
 Excel Data Analysis Project
